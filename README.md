@@ -4,8 +4,6 @@
 <h1>RUNNING PROJECT</h1>
 <p>To run this project, execute: <br>
 
-docker-compose up -d <br>
-
 Then, run: <br>
 composer install <br>
 php artisan migrate <br>
